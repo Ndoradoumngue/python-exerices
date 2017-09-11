@@ -1,0 +1,12 @@
+[submodule "first-django-app"]
+	path = first-django-app
+	url = https://github.com/Ndoradoumngue/first-django-app.git
+[submodule "py.tes-try"]
+	path = py.tes-try
+	url = https://github.com/Ndoradoumngue/py.tes-try.git
+[submodule "my-first-vue-js"]
+	path = my-first-vue-js
+	url = https://github.com/Ndoradoumngue/my-first-vue-js.git
+[submodule "print-numbers-from-a-range-python"]
+	path = print-numbers-from-a-range-python
+	url = https://github.com/Ndoradoumngue/print-numbers-from-a-range-python.git
